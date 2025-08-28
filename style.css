@@ -1,0 +1,289 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+.pg1{
+    background-image: url(abstract-blur-empty-green-gradient-studio-well-use-as-background-website-template-frame-business-report_1258-54629.avif);
+    height:800px;
+    color: white;
+}
+.pr h3{
+    color: grey;
+}
+.pr{
+    margin-left: 50px;
+    margin-top: 90px;
+}
+button{
+    height: 50px;
+    width: 100px;
+    margin-left: 50px;
+}
+.mn{
+    float:right;
+    margin-top:5px;
+}
+.ic{
+    float: right;
+    margin-top: 80px;
+    
+}
+.pg2{
+    height: 800px;
+    background-color:#39B54A;
+}
+.pg2 h3{
+    text-align: center;
+    
+    
+}
+.pg2 h1{
+    text-align:center;
+    color: white;
+}
+.pg2 hr{
+    margin-left: 600px;
+    margin-right:600px ;
+}
+
+.pg3{
+    height: 1000px;
+    width: 1700px;
+    background-color: aliceblue;
+}
+.pg3 h3{
+    text-align: center;
+    color: #39B54A;
+    margin-top: 10px;
+}
+.pg3 h1{
+    text-align: center;
+    font: 44px montserrat-medium,sans-serif;
+    margin-right:20px ;
+}
+.pg3 hr{
+    margin-left: 500px;
+    margin-right:500px;
+    margin-top: 20px;
+}
+.pera{
+    display: grid;
+    height: 200px;
+    color: black;
+    margin-left: 600px;
+    margin-right: 500px;
+    line-height:30px;
+    margin-top: 30px;
+
+}
+
+
+.container1{
+    display: grid;
+    grid-template-columns: 300px 300px 300px;
+    grid-template-rows: 300px 300px 300px ;
+    grid-gap: 120px;
+    margin-left: 180px;
+    margin-top: 20px;
+    
+    margin-right: 300px;
+    height: 400px;
+}
+.item1{
+     background-color: whitesmoke;
+    border: 3px green;
+    border-radius: 3%;
+    
+}
+.container2{
+    display: grid;
+    grid-template-columns: 300px 300px 300px ;
+    grid-template-rows: 300px 300px 300px;
+    grid-gap: 120px;
+    margin-left: 180px;
+
+}
+
+.item2{
+     background-color: whitesmoke;
+    border: 3px green;
+    border-radius: 3%;
+}
+.item1 h2{
+    color: #39B54A;
+    margin-top: 20px;
+}
+.item2 h2{
+    color: #39B54A;
+    margin-top: 20px;
+}
+
+.pg4{
+    height:500px;
+    background-color: black;
+}
+.pg4 h3{
+    color: #39B54A;
+    text-align: center;
+    
+}
+.pg4 h1{
+    text-align: center;
+    color: white;
+    margin-top: 20px;
+    font: 44px montserrat-medium,sans-serif;
+}
+.im1 {
+    display: flex;
+    margin-left: 180px;
+    
+    
+}
+.im1 img{
+    width: 600px;
+}
+.im2{
+    display: flex;
+    margin-left: 180px;
+}
+.im2 img{
+    width: 600px;
+}
+.im3{
+    display: flex;
+    margin-left: 180px;
+}
+.im3 img{
+    width: 600px;
+}
+.pg5{
+    height: 1300px;
+    background-color:#E6E6E6;
+}
+.pg5 h3{
+    color: #39B54A;
+    text-align: center;
+}
+.pg5 h1{
+    text-align: center;
+    font:44px montserrat-medium,sans-serif ;
+}
+.pg5 im2 {
+    display: flex;
+    position: fixed;
+    margin-left: 10px;
+
+}
+.pg5 p{
+    text-align: center;
+    26px lora-regular,serif;
+}
+.pg5 img{
+    margin-left: 600px;
+    border-radius: 50%;
+}
+.pg5 hr{
+    margin-left: 500px;
+    margin-right: 500px;
+}
+.ico{
+    display:flex;
+    margin-left: 700px;
+    margin-top: 30px;
+    margin-bottom: 30px;
+
+}
+
+.pg6{
+    background-image: url(light-black-background-1920-x-1080-ov3r9u7u0ttpzwsv.jpg);
+    height: 1000px;
+}
+.pg6 h3{
+    color: #39B54A;
+    text-align: center;
+}
+.pg6 h1{
+    text-align: center;
+    color: white;
+    font:44px montserrat-medium,sans-serif ;
+}
+.pg6 contactinfo{
+    height:200px;
+    width: 200px;
+    background-color: white;
+}
+.info{
+    height: 800px;
+    width: 900px;
+    background-color:#00000033;
+    margin-left: 350px;
+}
+.info h3{
+    color: white;
+    float: left;
+    margin-left: 10px;
+}
+.info h5{
+    color: white;
+    margin-top: 30px;
+
+
+}
+.info hr{
+    margin-right:350px;
+}
+.info button{
+    background-color: #39B54A;
+    width: 600px;
+    margin-right: 350px;
+    margin-left: 5px;
+    
+}
+.pg7{
+    height: 500px;
+    background-color:#39B54A;
+}
+.container3{
+    display: grid;
+    grid-template-columns: 200px 200px;
+    grid-template-rows: 200px 200px;
+    margin-left: 600px;
+    height: 400px;
+    
+
+}
+.item3{
+    padding: 0px 15px 0px 40px;
+    margin-top: 20px;
+
+}
+.item3 button{
+    background-color: #39B54A;
+}
+.pg7 h1{
+color:white;
+}
+.pg7 h3{
+    color: white;
+}
+.co{
+    height: 300px;
+    width: 1700px;
+    margin-right:30px;
+    background-color: black;
+    margin-top: 100px;
+}
+.co h2{
+    color: white;
+    text-align: center;
+    margin-top: 20px;
+}
+.co h3{
+    color: #39B54A;
+    text-align: center;
+}
+.co h4{
+    text-align: center;
+    color: #39B54A;
+}
